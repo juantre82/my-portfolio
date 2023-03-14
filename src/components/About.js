@@ -31,7 +31,7 @@ export default function About() {
                 <img
                  className="object-cover object-center rounded"
                  alt="hero"
-                 src="./selfie.jpeg"
+                 src="./Me.jpeg"
                 />
                 </div>
             </div>
