@@ -10,14 +10,12 @@ export default function About() {
                         <br className="hidden lg:inline-block" />I love to build fun apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                    laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                    Laborum, voluptas natus?
+                    Entry level developer with certifications in software with MITxPro, and FreeCodingBootCamp. Looking for experience in the field regarding web design and full stack development. My goal is to gain the opportunity to work with a team in order to obtain more knowledge and experience to build my career in this field.
                     </p>
                     <div className="flex justify-center">
                         <a
                         href="#contact"
-                        className="inline-flex text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">
+                        className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
                             Work With Me
                         </a>
                         <a
